@@ -1,0 +1,14 @@
+{
+  "name": "paste-json-chrome",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "paste-json-chrome": "index.js"
+  },
+  "main": "index.js",
+  "author": "Nicholas Cartwright <nick@aslant.io>",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
